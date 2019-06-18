@@ -5,6 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(180,227,145,1) 0%,rgba(255,225,0,1) 13%,rgba(124,0,0,1) 32%,rgba(97,196,25,1) 50%,rgba(0,38,255,1) 73%,rgba(255,0,4,1) 87%,rgba(180,227,145,1) 100%);
+}
+
+#FilmBox{
+  background: white;
+}
+
+#MoreFilmsContainer{
+
+
+  height: 60px;
+  margin: 20px;
+  text-align: center;
 }
 
 code {
